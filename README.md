@@ -21,7 +21,7 @@ Les tâches peuvent être suivies sur le [github project](https://github.com/org
 
 ## Cloner le répo ⚠️
 
-- Pour cloner le répo, utilisez la commande suivante : `git clone --recurse-submodules`
+- Pour cloner le répo, utilisez la commande suivante : `git clone --recurse-submodules https://github.com/kumojin-happyning/happyning`
 - Si vous avez déjà cloné le répo, utilisez la commande suivante : `git submodule update --init --recursive`
 
 ## Prérequis 📋
